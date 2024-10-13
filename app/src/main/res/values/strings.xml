@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="pregunta_imagen">Descripción de la imagen de la pregunta</string>
+    <string name="background">Descripción del fondo</string> <!-- Añadir esta línea -->
+</resources>

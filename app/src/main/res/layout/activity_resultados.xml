@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@drawable/resultadowallpaper">
+
+    <TextView
+        android:id="@+id/textViewResultados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:shadowColor="@color/neon_azul"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="8"
+        android:text="¡Resultados!"
+        android:textColor="@color/neon_blanco"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:layout_gravity="center"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/buttonGuardarResultados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/neon_button_border"
+        android:elevation="8dp"
+        android:padding="12dp"
+        android:text="Guardar Resultados"
+        android:textColor="@color/neon_blanco"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/buttonJugarOtraVez"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/neon_button_border"
+        android:elevation="8dp"
+        android:padding="12dp"
+        android:text="Jugar otra vez"
+        android:textColor="@color/neon_blanco"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+</LinearLayout>
