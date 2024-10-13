@@ -14,7 +14,7 @@ El projecte s'ha de poder desplegar en mode desenvolupament simplement fent dock
  * Nom del projecte: QUIZ APP
    
  * Petita descripció;
-El proyecto consiste en una Quiz App para Android que hace lo siguiente: obtiene preguntas desde un servidor, las muestra al usuario, permite responderlas, envía los resultados al servidor y genera estadísticas. Combina funcionalidades de red para realizar fetch y enviar datos, y también incluye la visualización de resultados y métricas de rendimiento del usuario.
+El proyecto consiste en una Quiz App para Android que hace lo siguiente: obtiene preguntas desde un servidor, las muestra al usuario, permite responderlas, envía los resultados al servidor y genera estadísticas. Combina funcionalidades de red para realizar fetch y enviar datos, y también incluye la visualización de resultados.
  * Adreça del gestor de tasques (taiga, jira, trello...)
  * URL de producció (quan la tingueu)
  * Estat: (explicació d'en quin punt està)
